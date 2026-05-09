@@ -42,8 +42,8 @@ See `framework_reference.py` for a full breakdown of both frameworks with compon
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/xvor/data-governance-playbook-generator
-cd data-governance-playbook-generator
+git clone https://github.com/xvor/data-governance-playbook
+cd data-governance-playbook
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -121,20 +121,6 @@ Chatbots are useful for exploration. This is a *decision support tool* — struc
   ]
 }
 ```
-
----
-
-## Related projects
-
-- [**AI Risk Lens**](https://github.com/xvor/ai-risk-lens) — Maps AI features to NIST AI RMF tiers and EU AI Act classifications
-- [**Skill Trust Engine**](https://github.com/xvor/skill-trust-engine) — Evaluates AI agent skill risk profiles across four governance dimensions
-
----
-
-## Author
-
-**Vijay** · Staff TPM → AI Governance PM  
-CIPT · CISSP · 20 years at the intersection of AI, privacy, and compliance
 
 [GitHub](https://github.com/xvor) · [Medium](https://medium.com/@xvor) · [LinkedIn](https://linkedin.com/in/xvor)
 
